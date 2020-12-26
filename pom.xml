@@ -11,6 +11,7 @@
     <modules>
         <module>strategy-pattern</module>
         <module>chain-of-responsibility</module>
+        <module>factory-pattern</module>
     </modules>
 
     <parent>
